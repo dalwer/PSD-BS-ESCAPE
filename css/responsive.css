@@ -1,0 +1,250 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+/*header section*/
+.nav-link {
+    display: inline-block !important;
+}
+
+.banner-content h1 {
+    font-size: 26px;
+}
+.banner-content p {
+    font-size: 15px;
+    margin-bottom: 30px;
+}
+.btn-sm, .btn-group-sm > .btn {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.875rem;
+    line-height: 1.5;
+    border-radius: 0.2rem;
+}
+
+.button1 span {
+    font-size: 18px;
+}
+.px-5 {
+    padding: .2rem 1rem !important;
+}
+.btn-lg {
+    font-size: 1rem;
+}
+/*header section*/
+/*development section*/
+.py-100 {
+    padding: 50px 0;
+}
+.c-h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+.c-p {
+    font-size: 14px;
+}
+/*development section*/
+/*service section*/
+.service-img a {
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+}
+.fa-lg {
+    font-size: .875em;
+}
+.c-h5 {
+    font-size: 12px;
+}
+/*service section*/
+/*clients section*/
+.left-arrow, .right-arrow {
+    padding: 10px 10px;
+}
+.client-content p {
+    font-size: 13px;
+}
+.client-content span{
+	font-size: 10px;
+}
+/*clients section*/
+/*branding section*/
+.p-5 {
+    padding: 1rem !important;
+}
+/*branding section*/
+/*team section*/
+.team-content{
+	margin-bottom: 25px;
+}
+.team-text {
+    margin-top: 10px;
+}
+.team-text p { 
+    font-size: 9px;
+}
+/*team section*/
+/*footer*/
+.py-100 {
+    padding: 30px 0;
+}
+.mb-5 {
+    margin-bottom: 15px !important;
+}
+.footer-sicon span {
+    font-size: 14px;
+}
+.footer-sicon ul li a {
+    padding: 0.1rem 0;
+}
+.contact-form form input {
+    padding: 8px 10px;
+    font-size: 16px;
+}
+.contact-form form textarea {
+    padding: 8px 10px;
+    font-size: 16px;
+}
+.contact-form{
+	margin-top: 20px;
+}
+.contact-form form input {
+    font-size: 13px;
+}
+.contact-form form textarea {
+    font-size: 13px;
+}
+/*footer*/
+.copyright p {
+    font-size: 12px;
+}
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header section*/
+.nav-link {
+    display: inline-block !important;
+}
+.banner-content h1 {
+    font-size: 45px;
+}
+.banner-content p {
+    font-size: 25px;
+}
+/*header section*/
+/*development section*/
+.py-100 {
+    padding: 65px 0;
+}
+.c-h1 {
+    font-size: 42px;
+}
+.c-p {
+    font-size: 14px;
+}
+/*development section*/
+/*service section*/
+.service-img a {
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+}
+.fa-lg {
+    font-size: .875em;
+}
+/*service section*/
+/*clients section*/
+.left-arrow, .right-arrow {
+    padding: 25px 30px;
+}
+.client-content p {
+    font-size: 16px;
+}
+/*clients section*/
+/*team section*/
+.c-h5 {
+    font-size: 16px;
+}
+.c-title {
+    font-size: 14px;
+}
+.team-text p {
+    font-size: 16px;
+}
+/*team section*/
+/*footer*/
+.mb-5 {
+    margin-bottom: 15px !important;
+}
+.footer-sicon ul li a {
+    padding: 0.1rem 0;
+}
+.contact-form form input {
+    padding: 8px 10px;
+    font-size: 16px;
+}
+.contact-form form textarea {
+    padding: 8px 10px;
+    font-size: 16px;
+}
+.px-5 {
+    padding: .2rem 1rem !important;}
+ .btn-lg {
+    font-size: 1rem; 
+}   
+/*footer*/
+.copyright p {
+    font-size: 14px;
+}
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header section*/
+.menu ul li a {
+    font-size: 16px;
+}
+.banner-content p {
+    font-size: 25px;
+}
+.banner-content h1 {
+    font-size: 55px;
+}
+
+/*header section*/
+/*development section*/
+.py-100 {
+    padding: 80px 0;
+}
+.c-h1 {
+    font-size: 50px;
+}
+.c-p {
+    font-size: 16px;
+}
+/*development section*/
+/*clients section*/
+.left-arrow, .right-arrow {
+    padding: 35px 65px;
+}
+.client-content p {
+    font-size: 16px;
+}
+/*clients section*/
+/*team section*/
+.team-text p {
+    font-size: 18px;
+}
+/*team section*/
+.px-5 {
+    padding: .2rem 1rem !important;}
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+
+}
